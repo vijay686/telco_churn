@@ -15,7 +15,7 @@ artifacts/
 *.pkl
 *.npy
 *.csv
-data/
+notebook/data/
 logs/
 
 # 4. Notebook Checkpoints
