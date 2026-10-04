@@ -1,3 +1,4 @@
+README.md
 setup.py
 telco_churn.egg-info/PKG-INFO
 telco_churn.egg-info/SOURCES.txt

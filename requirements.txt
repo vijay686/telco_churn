@@ -4,5 +4,6 @@ scikit-learn
 matplotlib
 seaborn
 pymongo
+PyYaml
 python-dotenv
 -e .

@@ -8,6 +8,7 @@ Requires-Dist: scikit-learn
 Requires-Dist: matplotlib
 Requires-Dist: seaborn
 Requires-Dist: pymongo
+Requires-Dist: PyYaml
 Requires-Dist: python-dotenv
 Dynamic: author
 Dynamic: requires-dist
