@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: telco-churn
+Version: 0.0.1
+Author: Vijay
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: pymongo
+Requires-Dist: python-dotenv
+Dynamic: author
+Dynamic: requires-dist

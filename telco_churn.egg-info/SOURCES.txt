@@ -1,0 +1,6 @@
+setup.py
+telco_churn.egg-info/PKG-INFO
+telco_churn.egg-info/SOURCES.txt
+telco_churn.egg-info/dependency_links.txt
+telco_churn.egg-info/requires.txt
+telco_churn.egg-info/top_level.txt

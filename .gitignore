@@ -1,0 +1,24 @@
+# 1. Environments & Caches (Bloat)
+venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 2. Secrets & Credentials (Security - CRITICAL)
+.env
+credentials.json
+secrets/
+
+# 3. Data & Artifacts (Git is for code, not huge files)
+artifacts/
+*.pkl
+*.npy
+*.csv
+data/
+logs/
+
+# 4. Notebook Checkpoints
+.ipynb_checkpoints/
+
+*.egg-info/
