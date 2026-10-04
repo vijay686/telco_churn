@@ -11,14 +11,14 @@ credentials.json
 secrets/
 
 # 3. Data & Artifacts (Git is for code, not huge files)
-artifacts/
+*artifacts/
 *.pkl
 *.npy
 *.csv
 notebook/data/
 logs/
+*.log
+*.egg-info/
 
 # 4. Notebook Checkpoints
 .ipynb_checkpoints/
-
-*.egg-info/
